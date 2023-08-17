@@ -10,6 +10,9 @@ font-size: 9em;
 }
 p {
 text-align: center;
+color:red;
+font-style: italic;
+font-family: 'Bebas Neue', sans-serif;
 }
 div {
 padding-top: 75px;
